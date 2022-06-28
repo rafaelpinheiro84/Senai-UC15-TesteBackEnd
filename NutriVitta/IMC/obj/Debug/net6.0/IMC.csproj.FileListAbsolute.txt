@@ -1,0 +1,24 @@
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\bin\Debug\net6.0\IMC.deps.json
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\bin\Debug\net6.0\IMC.dll
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\bin\Debug\net6.0\IMC.pdb
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.csproj.AssemblyReference.cache
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.AssemblyInfoInputs.cache
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.AssemblyInfo.cs
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.dll
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\refint\IMC.dll
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\IMC.pdb
+C:\Users\rp121\Desktop\UC15\NutriVitta\IMC\obj\Debug\net6.0\ref\IMC.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\bin\Debug\net6.0\IMC.deps.json
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\bin\Debug\net6.0\IMC.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\bin\Debug\net6.0\IMC.pdb
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.AssemblyInfo.cs
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\refint\IMC.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\IMC.pdb
+C:\Users\rafae\Documents\UC15-Teste_Back end\NutriVitta\IMC\obj\Debug\net6.0\ref\IMC.dll
