@@ -1,0 +1,12 @@
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\bin\Debug\net6.0\ProjetoTesteUC15.deps.json
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\bin\Debug\net6.0\ProjetoTesteUC15.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\bin\Debug\net6.0\ProjetoTesteUC15.pdb
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.csproj.AssemblyReference.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.AssemblyInfo.cs
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\refint\ProjetoTesteUC15.dll
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ProjetoTesteUC15.pdb
+C:\Users\rafae\Documents\UC15-Teste_Back end\ProjetoTesteUC15\ProjetoTesteUC15\obj\Debug\net6.0\ref\ProjetoTesteUC15.dll
